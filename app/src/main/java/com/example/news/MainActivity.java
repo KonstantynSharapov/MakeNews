@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     }
     String name= "Kostya";
     int a=100;
+    int b=99;
 }
 
